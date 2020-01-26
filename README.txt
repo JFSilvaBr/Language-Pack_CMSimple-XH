@@ -11,7 +11,7 @@ Por favor, altere esta senha imediatamente!
 
 ===============================================
 
-INSTALLATION
+INSTALAÇÃO
 
 Unzip the download and upload all files of the
 folder cmsimplexh/ to your webserver.
