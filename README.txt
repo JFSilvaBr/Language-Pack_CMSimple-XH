@@ -3,11 +3,11 @@
 released @CMSIMPLE_XH_DATE@
 ===============================================
 
-PASSWORD for this installation:
+SENHA para esta instalação:
 
            test
 
-Please Change this password immediately !
+Por favor, altere esta senha imediatamente!
 
 ===============================================
 
