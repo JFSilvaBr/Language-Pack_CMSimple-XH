@@ -29,12 +29,12 @@ Instruções detalhadas para ATUALIZAR estão disponíveis no fórum do CMSimple
    N O T Í C I A   I M P O R T A N T E
 #########################################
 
-Please DO NOT change the password directly in
-config.php by using a text editor, because the
-config.php only contains the encrypted password.
-Change the default password right away after
-login ONLINE !
-(Login with default password "test")
+Por favor, NÃO altere a senha diretamente no 
+config.php usando um editor de texto, porque o 
+config.php contém apenas a senha criptografada.
+Altere a senha padrão imediatamente após 
+o login ONLINE!
+(Faça o login com a senha padrão "test")
 
 This is the easiest and best working way.
 
