@@ -26,7 +26,7 @@ Detailed UPDATE instructions are available in the CMSimple forum
 ===============================================
 
 #########################################
-     I M P O R T A N T   N O T I C E
+   N O T Í C I A   I M P O R T A N T E
 #########################################
 
 Please DO NOT change the password directly in
