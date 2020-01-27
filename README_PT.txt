@@ -20,7 +20,7 @@ Em alguns servidores, você precisa definir
 permissões de gravação para alguns arquivos, consulte
 http://www.cmsimple-xh.org/wiki/doku.php/installation
 
-Detailed UPDATE instructions are available in the CMSimple forum
+Instruções detalhadas para ATUALIZAR estão disponíveis no fórum do CMSimple
 (http://www.cmsimpleforum.com/viewtopic.php?f=4&t=4868).
 
 ===============================================
