@@ -16,8 +16,8 @@ INSTALAÇÃO
 Descompacte o download e faça o upload de todos os arquivos da
 pasta cmsimplexh/ para o seu servidor web.
 
-On some servers you have to set writing
-permissions for some files, see
+Em alguns servidores, você precisa definir
+permissões de gravação para alguns arquivos, consulte
 http://www.cmsimple-xh.org/wiki/doku.php/installation
 
 Detailed UPDATE instructions are available in the CMSimple forum
