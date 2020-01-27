@@ -13,8 +13,8 @@ Por favor, altere esta senha imediatamente!
 
 INSTALAÇÃO
 
-Unzip the download and upload all files of the
-folder cmsimplexh/ to your webserver.
+Descompacte o download e faça o upload de todos os arquivos da
+pasta cmsimplexh/ para o seu servidor web.
 
 On some servers you have to set writing
 permissions for some files, see
