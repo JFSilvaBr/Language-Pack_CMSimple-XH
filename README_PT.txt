@@ -1,6 +1,6 @@
 ﻿===============================================
 @CMSIMPLE_XH_VERSION@
-released @CMSIMPLE_XH_DATE@
+liberada @CMSIMPLE_XH_DATE@
 ===============================================
 
 SENHA para esta instalação:
