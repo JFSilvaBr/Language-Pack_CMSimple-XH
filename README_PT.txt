@@ -36,7 +36,7 @@ Altere a senha padrão imediatamente após
 o login ONLINE!
 (Faça o login com a senha padrão "test")
 
-This is the easiest and best working way.
+Esta é a maneira mais fácil e melhor de trabalhar.
 
 
 For editing CMSimple_XH files it is essential
