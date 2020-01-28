@@ -48,8 +48,8 @@ Se essa condição não for atendida, você danificará
 sua instalação do CMSimple.
 
 
-If you have forgotten your password, you can
-enter the encrypted password "test", i.e.:
+Se você esqueceu sua senha, você pode 
+inserir a senha criptografada "teste", ou seja:
 
 \$2y\$10\$TtMCJlxEv6D27BngvfdNrewGqIx2R0aPCHORruqpe63LQpz7.E9Gq
 
