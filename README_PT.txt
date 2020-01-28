@@ -39,10 +39,10 @@ o login ONLINE!
 Esta é a maneira mais fácil e melhor de trabalhar.
 
 
-For editing CMSimple_XH files it is essential
-to USE ONLY editors, capable of detecting,
-opening and saving files as "utf-8 without BOM"
-(Byte Order Mark), like notepad++.
+Para editar arquivos CMSimple_XH, é essencial
+USAR SOMENTE editores capazes de detectar,
+abrir e salvar arquivos como "utf-8 sem BOM"
+(Byte Order Mark), como o Notepad ++.
 
 If this condition is not fulfilled, you will
 damage your CMSimple installation.
