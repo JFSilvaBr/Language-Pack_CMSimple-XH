@@ -44,8 +44,8 @@ USAR SOMENTE editores capazes de detectar,
 abrir e salvar arquivos como "utf-8 sem BOM"
 (Byte Order Mark), como o Notepad ++.
 
-If this condition is not fulfilled, you will
-damage your CMSimple installation.
+Se essa condição não for atendida, você danificará 
+sua instalação do CMSimple.
 
 
 If you have forgotten your password, you can
