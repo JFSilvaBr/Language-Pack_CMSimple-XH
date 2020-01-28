@@ -53,12 +53,12 @@ inserir a senha criptografada "teste", ou seja:
 
 \$2y\$10\$TtMCJlxEv6D27BngvfdNrewGqIx2R0aPCHORruqpe63LQpz7.E9Gq
 
-via ftp into config.php and login using "test".
+via ftp em config.php e faça o login usando "test".
 
 ===============================================
 
-D e s c r i p t i o n   o f   t h e
-s o f t w a r e   p a c k a g e :
+D e s c r i ç ã o   d o 
+p a c o t e   d e   s o f t w a r e:
 
 CMSimple_XH is a fast, small, easy-to-use and
 easy-to-install modular Content Management
