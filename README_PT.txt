@@ -1,6 +1,6 @@
 ﻿===============================================
 @CMSIMPLE_XH_VERSION@
-liberada @CMSIMPLE_XH_DATE@
+lançamento @CMSIMPLE_XH_DATE@
 ===============================================
 
 SENHA para esta instalação:
@@ -67,5 +67,5 @@ Conteúdo (CMS), que não precisa de um banco de dados.
 É um software de código aberto gratuito sob a 
 licença GPL3.
 
-CMSimple_XH stores the content of the different
-pages in one single html-file (content.htm).
+CMSimple_XH armazena o conteúdo das diferentes 
+páginas em um único arquivo html (content.htm).
