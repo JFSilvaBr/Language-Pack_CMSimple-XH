@@ -64,8 +64,8 @@ CMSimple_XH é um rápido, pequeno, fácil de usar e
 fácil de instalar modular Sistema de Gerenciamento de 
 Conteúdo (CMS), que não precisa de um banco de dados.
 
-It is free Open Source Software under the
-GPL3 Licence.
+É um software de código aberto gratuito sob a 
+licença GPL3.
 
 CMSimple_XH stores the content of the different
 pages in one single html-file (content.htm).
