@@ -60,9 +60,9 @@ via ftp em config.php e faça o login usando "test".
 D e s c r i ç ã o   d o 
 p a c o t e   d e   s o f t w a r e:
 
-CMSimple_XH is a fast, small, easy-to-use and
-easy-to-install modular Content Management
-System (CMS), which doesn't need a database.
+CMSimple_XH é um rápido, pequeno, fácil de usar e
+fácil de instalar modular Sistema de Gerenciamento de 
+Conteúdo (CMS), que não precisa de um banco de dados.
 
 It is free Open Source Software under the
 GPL3 Licence.
