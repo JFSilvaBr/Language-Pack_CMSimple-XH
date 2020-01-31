@@ -1,33 +1,33 @@
 <?php
 
-$tx['site']['title']="English Site Title";
+$tx['site']['title']="Título do site em Português";
 $tx['subsite']['template']="";
 
-$tx['meta']['keywords']="Enter list of comma separated keywords here";
-$tx['meta']['description']="Enter website description for search engine results here";
+$tx['meta']['keywords']="Insira a lista de palavras-chave separadas por vírgula aqui";
+$tx['meta']['description']="Digite a descrição do site para obter os resultados dos buscadores aqui";
 
 $tx['locale']['all']="";
 
-$tx['template']['text1']="Text 1 for templates requiring this text";
-$tx['template']['text2']="Text 2 for templates requiring this text";
-$tx['template']['text3']="Text 3 for templates requiring this text";
+$tx['template']['text1']="Texto 1 para modelos que requerem este texto";
+$tx['template']['text2']="Texto 2 para modelos que requerem este texto";
+$tx['template']['text3']="Texto 3 para modelos que requerem este texto";
 
 $tx['urichar']['new']="";
 $tx['urichar']['org']="";
 
-$tx['action']['advanced_hide']="Less &hellip;";
-$tx['action']['advanced_show']="More &hellip;";
-$tx['action']['backup']="backup";
-$tx['action']['cancel']="Cancel";
-$tx['action']['delete']="delete";
-$tx['action']['download']="download";
-$tx['action']['edit']="edit";
-$tx['action']['empty']="empty";
+$tx['action']['advanced_hide']="Menos &hellip;";
+$tx['action']['advanced_show']="Mais &hellip;";
+$tx['action']['backup']="Backup";
+$tx['action']['cancel']="Cancelar";
+$tx['action']['delete']="Excluir";
+$tx['action']['download']="Baixar";
+$tx['action']['edit']="Editar";
+$tx['action']['empty']="Vazio";
 $tx['action']['ok']="OK";
-$tx['action']['restore']="restore";
-$tx['action']['save']="save";
-$tx['action']['upload']="upload";
-$tx['action']['view']="view";
+$tx['action']['restore']="Restaurar";
+$tx['action']['save']="Salvar";
+$tx['action']['upload']="Enviar";
+$tx['action']['view']="Visão";
 
 $tx['editmenu']['backups']="Backups";
 $tx['editmenu']['change_password']="Password";
