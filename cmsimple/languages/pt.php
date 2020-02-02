@@ -76,16 +76,16 @@ $tx['error']['plugincall']="Function %s() is not defined!";
 $tx['error']['server']="Server error: %s";
 $tx['error']['undefined']="Undefined";
 
-$tx['filetype']['backup']="backup";
-$tx['filetype']['config']="configuration";
-$tx['filetype']['content']="content file";
-$tx['filetype']['execute']="execute";
-$tx['filetype']['file']="file";
-$tx['filetype']['folder']="folder";
-$tx['filetype']['language']="language file";
-$tx['filetype']['log']="log";
-$tx['filetype']['stylesheet']="stylesheet";
-$tx['filetype']['template']="template";
+$tx['filetype']['backup']="Backup";
+$tx['filetype']['config']="Configuração";
+$tx['filetype']['content']="Arquivo de Conteúdo";
+$tx['filetype']['execute']="Executar";
+$tx['filetype']['file']="Arquivo";
+$tx['filetype']['folder']="Pasta";
+$tx['filetype']['language']="Arquivo de Idioma";
+$tx['filetype']['log']="Registro";
+$tx['filetype']['stylesheet']="Folha de Estilo";
+$tx['filetype']['template']="Modelo";
 
 $tx['help']['downloads_maxsize']="Maximum size of uploaded files in Byte. This must neither exceed the limit set for upload_max_filesize nor post_max_size in the PHP configuration.";
 $tx['help']['editmenu_scroll']="Whether the admin menu shall scroll with your webpage. Not checked = fixed admin menu.";
@@ -143,7 +143,7 @@ $tx['label']['empty']="- EMPTY -";
 $tx['languagemenu']['text']="select language: ";
 
 $tx['lastupdate']['dateformat']="F d, Y, H:i";
-$tx['lastupdate']['text']="Last update";
+$tx['lastupdate']['text']="Última Atualização";
 
 $tx['link']['check']="Please check: ";
 $tx['link']['check_errors']="Problems encountered: ";
@@ -168,20 +168,20 @@ $tx['link']['returned_status']="Returned http status code: ";
 $tx['link']['unknown']="Unknown problem, please check this link.";
 
 $tx['locator']['home']="Home";
-$tx['locator']['text']="You are here: ";
+$tx['locator']['text']="Você está Aqui: ";
 
 $tx['log']['dateformat']="Y-m-d H:i:s";
-$tx['log']['loggedin']="logged in";
-$tx['log']['timestamp']="timestamp";
-$tx['log']['type']="type";
-$tx['log']['module']="module";
-$tx['log']['category']="category";
-$tx['log']['description']="description";
+$tx['log']['loggedin']="Logado";
+$tx['log']['timestamp']="Carimbo de Tempo";
+$tx['log']['type']="Tipo";
+$tx['log']['module']="Módulo";
+$tx['log']['category']="Categoria";
+$tx['log']['description']="Descrição";
 
 $tx['login']['back']="Voltar";
 $tx['login']['failure']="Você Digitou uma Senha Incorreta!";
 $tx['login']['loggedout']="Você foi Desconectado";
-$tx['login']['warning']="Administração do site. Por favor, Digite a Senha.";
+$tx['login']['warning']="Administração do Site. Por favor, Digite a Senha.";
 
 $tx['mailform']['captcha']="Please enter this number (spam prevention)";
 $tx['mailform']['captchafalse']="Please enter anti-spam code";
@@ -215,9 +215,9 @@ $tx['message']['pd_fail']="The page data could not be saved. Please try again.";
 $tx['message']['restored']="The backup has been successfully restored.";
 $tx['message']['saved']="%s successfully saved.";
 
-$tx['navigator']['next']="next »";
-$tx['navigator']['previous']="« prev";
-$tx['navigator']['top']="top";
+$tx['navigator']['next']="Próxima »";
+$tx['navigator']['previous']="« Anterior";
+$tx['navigator']['top']="Topo";
 
 $tx['pagedata']['deleted_1']="%s page data field has been deleted.";
 $tx['pagedata']['deleted_2_4']="%s page data fields have been deleted.";
@@ -242,8 +242,8 @@ $tx['password_forgotten']['email2_sent']="The password has been reset. An email 
 $tx['password_forgotten']['email2_text']="Your password has been reset. Your new password is:";
 $tx['password_forgotten']['request']="Confirm the configured email address to request instructions to reset the password.";
 
-$tx['result']['created']="created";
-$tx['result']['deleted']="deleted";
+$tx['result']['created']="Criada";
+$tx['result']['deleted']="Excluída";
 
 $tx['search']['button']="Search";
 $tx['search']['found_1']="\"%s\" was found in one page:";
@@ -294,7 +294,7 @@ $tx['sysinfo']['version']="Installed CMSimple Version";
 $tx['sysinfo']['unknown']="Webserver could not be determined";
 $tx['sysinfo']['webserver']="Webserver";
 
-$tx['template']['active']="Active Template: ";
+$tx['template']['active']="Modelo Ativo: ";
 $tx['template']['default']="Modelo Padrão";
 
 $tx['title']['bad_request']="Bad request";
