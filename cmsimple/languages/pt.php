@@ -1,6 +1,6 @@
 <?php
 
-$tx['site']['title']="Título do site em Português";
+$tx['site']['title']="Título do Site em Português";
 $tx['subsite']['template']="";
 
 $tx['meta']['keywords']="Insira a lista de palavras-chave separadas por vírgula aqui";
@@ -38,7 +38,7 @@ $tx['editmenu']['files']="Arquivos";
 $tx['editmenu']['help']="Ajuda";
 $tx['editmenu']['images']="Imagens";
 $tx['editmenu']['language']="Idioma";
-$tx['editmenu']['log']="Arquivo de Log";
+$tx['editmenu']['log']="Arquivo de Resgistro";
 $tx['editmenu']['logout']="Sair";
 $tx['editmenu']['media']="Media";
 $tx['editmenu']['normal']="Modo de Visualização";
@@ -129,18 +129,18 @@ $tx['help']['uri_seperator']="The character which separates names of pages and s
 $tx['help']['uri_word_separator']="The character which separates words in the URL.";
 $tx['help']['uri_length']="The URLs of the pages will be truncated at this length. This might change in a future release, so it's best to use shorter page headings (e.g. by using Page&rarr;Alternative heading).";
 
-$tx['help']['folders_content']="The folder where the contents are stored (content.htm etc.)";
-$tx['help']['folders_userfiles']="The base folder of all userfiles.";
-$tx['help']['folders_downloads']="A subfolder of userfiles.";
-$tx['help']['folders_images']="A subfolder of userfiles.";
-$tx['help']['folders_media']="A subfolder of userfiles.";
+$tx['help']['folders_content']="A Pasta Onde o Conteúdo Está Armazenado (content.htm etc.)";
+$tx['help']['folders_userfiles']="A Pasta Base de Todos os Arquivos de Usuário.";
+$tx['help']['folders_downloads']="Uma Subpasta de Arquivos de Usuário.";
+$tx['help']['folders_images']="Uma Subpasta de Arquivos de Usuário.";
+$tx['help']['folders_media']="Uma Subpasta de Arquivos de Usuário.";
 
 $tx['help']['format_date']="The date format if ext/intl is available; otherwise the date/time format falls back to <code>\$tx['lastupdate']['format']</code>.";
 $tx['help']['format_time']="The time format if ext/intl is available; otherwise the date/time format falls back to <code>\$tx['lastupdate']['format']</code>.";
 
 $tx['label']['empty']="- EMPTY -";
 
-$tx['languagemenu']['text']="select language: ";
+$tx['languagemenu']['text']="Selecione o Idioma: ";
 
 $tx['lastupdate']['dateformat']="F d, Y, H:i";
 $tx['lastupdate']['text']="Última Atualização";
