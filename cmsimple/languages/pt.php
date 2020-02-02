@@ -178,10 +178,10 @@ $tx['log']['module']="module";
 $tx['log']['category']="category";
 $tx['log']['description']="description";
 
-$tx['login']['back']="Back";
-$tx['login']['failure']="You have entered a wrong password!";
-$tx['login']['loggedout']="You have been logged out";
-$tx['login']['warning']="Site administration. Please enter password.";
+$tx['login']['back']="Voltar";
+$tx['login']['failure']="Você Digitou uma Senha Incorreta!";
+$tx['login']['loggedout']="Você foi Desconectado";
+$tx['login']['warning']="Administração do site. Por favor, Digite a Senha.";
 
 $tx['mailform']['captcha']="Please enter this number (spam prevention)";
 $tx['mailform']['captchafalse']="Please enter anti-spam code";
@@ -198,14 +198,14 @@ $tx['mailform']['subject']="Subject (required): ";
 $tx['mailform']['subject_default']="Mailform on %s";
 
 $tx['menu']['login']="Login";
-$tx['menu']['mailform']="Mailform";
-$tx['menu']['print']="Print view";
-$tx['menu']['sitemap']="Sitemap";
+$tx['menu']['mailform']="Formulário de E-Mail";
+$tx['menu']['print']="Visualização de Impressão";
+$tx['menu']['sitemap']="Mapa do Site";
 $tx['menu']['tab_main']="Configurações Principais";
-$tx['menu']['tab_css']="Stylesheet";
+$tx['menu']['tab_css']="Folha de Estilo";
 $tx['menu']['tab_config']="Config";
-$tx['menu']['tab_language']="Language";
-$tx['menu']['tab_help']="Help";
+$tx['menu']['tab_language']="Idioma";
+$tx['menu']['tab_help']="Ajuda";
 
 $tx['message']['backedup']="The content has been successfully backed up.";
 $tx['message']['debug_mode']="Debug-Mode is enabled!";
