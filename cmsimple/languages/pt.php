@@ -30,7 +30,7 @@ $tx['action']['upload']="Enviar";
 $tx['action']['view']="Visão";
 
 $tx['editmenu']['backups']="Backups";
-$tx['editmenu']['change_password']="Password";
+$tx['editmenu']['change_password']="Senha";
 $tx['editmenu']['configuration']="Configuration";
 $tx['editmenu']['downloads']="Downloads";
 $tx['editmenu']['edit']="Edit mode";
@@ -227,14 +227,14 @@ $tx['pagedata']['info']="The following page data fields are <em>currently</em> u
 $tx['pagedata']['nothing']="No action necessary.";
 $tx['pagedata']['ok']="No superfluous fields detected in page data.";
 
-$tx['password']['confirmation']="Confirmation";
-$tx['password']['fields_missing']="Fill out all fields.";
-$tx['password']['invalid']="New password must consist of ASCII characters only.";
-$tx['password']['mismatch']="New password and its confirmation do not match.";
-$tx['password']['new']="New password";
-$tx['password']['old']="Old password";
-$tx['password']['score']="Password score: %s";
-$tx['password']['wrong']="Old password is wrong.";
+$tx['password']['confirmation']="Confirmação";
+$tx['password']['fields_missing']="Preencha Todos os Campos.";
+$tx['password']['invalid']="A Nova Senha Deve Conter Apenas Caracteres ASCII.";
+$tx['password']['mismatch']="A Nova Senha e Sua Confirmação não Coincidem.";
+$tx['password']['new']="Nova Senha";
+$tx['password']['old']="Senha Antiga";
+$tx['password']['score']="Pontuação da Senha: %s";
+$tx['password']['wrong']="A Senha Antiga está Incorreta.";
 
 $tx['password_forgotten']['email1_sent']="An email has been sent to the configured address with a link to reset the password. This link is valid for 1-2 hours.";
 $tx['password_forgotten']['email1_text']="You have requested to reset your password. Click the following link to reset your password:";
