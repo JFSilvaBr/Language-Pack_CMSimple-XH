@@ -33,7 +33,7 @@ $tx['editmenu']['backups']="Backups";
 $tx['editmenu']['change_password']="Senha";
 $tx['editmenu']['configuration']="Configuration";
 $tx['editmenu']['downloads']="Downloads";
-$tx['editmenu']['edit']="Edidar";
+$tx['editmenu']['edit']="Mode Edição";
 $tx['editmenu']['files']="Arquivos";
 $tx['editmenu']['help']="Ajuda";
 $tx['editmenu']['images']="Imagens";
@@ -213,7 +213,7 @@ $tx['message']['emptied']="The content has been successfully emptied.";
 $tx['message']['pd_success']="Page data successfully saved. Some settings may only become effective after page refresh or browsing to another page.";
 $tx['message']['pd_fail']="The page data could not be saved. Please try again.";
 $tx['message']['restored']="The backup has been successfully restored.";
-$tx['message']['saved']="%s successfully saved.";
+$tx['message']['saved']="%s Salva com Sucesso.";
 
 $tx['navigator']['next']="Próxima »";
 $tx['navigator']['previous']="« Anterior";
