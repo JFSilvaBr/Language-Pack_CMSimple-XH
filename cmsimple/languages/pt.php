@@ -54,7 +54,7 @@ $tx['editmenu']['validate']="Validar Links";
 
 $tx['error']['401']="Erro 401: Não Autorizado";
 $tx['error']['403']="Erro 403: Proibido";
-$tx['error']['404']="Erro 404 Não encontrado";
+$tx['error']['404']="Erro 404: Não Encontrado";
 $tx['error']['alreadyexists']="Já Existe";
 $tx['error']['badrequest']="Pedido Ruim. Por favor, <a href=\".\">Tente Novamente</a>.";
 $tx['error']['cntdelete']="Não foi Possível Excluir";
