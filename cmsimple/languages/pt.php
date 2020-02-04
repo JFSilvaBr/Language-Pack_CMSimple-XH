@@ -321,7 +321,7 @@ $tx['title']['xh_backups']="Backup";
 $tx['toc']['dupl']="DUPLICATE PAGE NAME";
 $tx['toc']['empty']="EMPTY PAGE NAME";
 $tx['toc']['missing']="MISSING PAGE NAME";
-$tx['toc']['newpage']="NEW PAGE";
+$tx['toc']['newpage']="NOVA PÁGINA";
 
 $tx['uri']['toolong']="According to Settings&rarr;CMS&rarr;Uri&rarr;Length the URL is too long:";
 
