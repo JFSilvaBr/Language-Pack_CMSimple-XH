@@ -22,7 +22,7 @@ $tx['action']['cancel']="Cancelar";
 $tx['action']['delete']="Excluir";
 $tx['action']['download']="Baixar";
 $tx['action']['edit']="Mode Edição";
-$tx['action']['empty']="Vazio";
+$tx['action']['empty']="Esvaziar";
 $tx['action']['ok']="OK";
 $tx['action']['restore']="Restaurar";
 $tx['action']['save']="Salvar";
@@ -31,7 +31,7 @@ $tx['action']['view']="Visualizar";
 
 $tx['editmenu']['backups']="Backups";
 $tx['editmenu']['change_password']="Senha";
-$tx['editmenu']['configuration']="Configuration";
+$tx['editmenu']['configuration']="Configuração";
 $tx['editmenu']['downloads']="Downloads";
 $tx['editmenu']['edit']="Mode Edição";
 $tx['editmenu']['files']="Arquivos";
@@ -209,10 +209,10 @@ $tx['menu']['tab_help']="Ajuda";
 
 $tx['message']['backedup']="The content has been successfully backed up.";
 $tx['message']['debug_mode']="Debug-Mode is enabled!";
-$tx['message']['emptied']="The content has been successfully emptied.";
+$tx['message']['emptied']="O conteúdo foi esvaziado com sucesso.";
 $tx['message']['pd_success']="Page data successfully saved. Some settings may only become effective after page refresh or browsing to another page.";
 $tx['message']['pd_fail']="The page data could not be saved. Please try again.";
-$tx['message']['restored']="The backup has been successfully restored.";
+$tx['message']['restored']="O backup foi restaurado com sucesso.";
 $tx['message']['saved']="%s Salva com Sucesso.";
 
 $tx['navigator']['next']="Próxima »";
@@ -258,7 +258,7 @@ $tx['settings']['backupexplain1']="On logout content is backed up and the oldest
 $tx['settings']['backupexplain2']="Backup file names start with date and time of backup as: YYYYMMDD_HHMMSS";
 $tx['settings']['backupsuffix']="Enter a filename (only a-z, 0-9, minus and underscore; at most 20 characters):";
 $tx['settings']['ftp']="Use FTP for remote file management";
-$tx['settings']['more']="More";
+$tx['settings']['more']="Mais";
 $tx['settings']['systemfiles']="System files";
 $tx['settings']['warning']="Only change settings when you understand the effect your changes will have!";
 
@@ -277,7 +277,7 @@ $tx['syscheck']['message']="Checking that %1\$s … %2\$s";
 $tx['syscheck']['password']="non-default password is set";
 $tx['syscheck']['phpversion']="Versão do PHP ≥ %s";
 $tx['syscheck']['safe_mode']="safe_mode is off";
-$tx['syscheck']['success']="okay";
+$tx['syscheck']['success']="Aprovado";
 $tx['syscheck']['timezone']="O Fuso Horário é Válido";
 $tx['syscheck']['title']="Checagem do Sistema";
 $tx['syscheck']['use_only_cookies']="session.use_only_cookies is on";
@@ -287,7 +287,7 @@ $tx['syscheck']['writable']="'%s' é gravável";
 
 $tx['sysinfo']['helplinks']="Info and Help Links";
 $tx['sysinfo']['php_version']="Versão do PHP";
-$tx['sysinfo']['phpinfo_hint']="(opens in a new window or tab)";
+$tx['sysinfo']['phpinfo_hint']="(Abre em uma nova janela ou aba)";
 $tx['sysinfo']['phpinfo_link']="PHP Info &raquo;";
 $tx['sysinfo']['plugins']="Plugins Instalados";
 $tx['sysinfo']['version']="Versão CMSimple Instalada";
