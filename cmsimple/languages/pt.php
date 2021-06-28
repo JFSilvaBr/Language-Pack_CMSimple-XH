@@ -325,10 +325,10 @@ $tx['toc']['newpage']="NOVA PÁGINA";
 
 $tx['uri']['toolong']="According to Settings&rarr;CMS&rarr;Uri&rarr;Length the URL is too long:";
 
-$tx['validate']['extfail']="EXTERNAL LINK FAILED";
-$tx['validate']['extok']="EXTERNAL LINK OK";
-$tx['validate']['intfail']="INTERNAL LINK FAILED";
-$tx['validate']['intfilok']="INTERNAL LINK TO FILE OK";
-$tx['validate']['intok']="INTERNAL LINK OK";
+$tx['validate']['extfail']="FALHA NO LINK EXTERNO";
+$tx['validate']['extok']="LINK EXTERNO OK";
+$tx['validate']['intfail']="FALHA NO LINK INTERNO";
+$tx['validate']['intfilok']="LINK INTERNO PARA ARQUIVO OK";
+$tx['validate']['intok']="LINK INTERNO OK";
 $tx['validate']['mailto']="MAILTO LINK";
-$tx['validate']['notxt']="NO TEXT IN LINK";
+$tx['validate']['notxt']="SEM TEXTO NO LINK";
